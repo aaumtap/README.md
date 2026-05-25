@@ -13,10 +13,10 @@
   <img src="https://github.com/user-attachments/assets/25efd87d-3a3d-4496-a3fe-efe5c770bb5a" width="18%" />
 </p>
 
-## Tools
-- **Frontend:** `React Native (Expo)`, `TypeScript`
-- **Backend & DB:** `Supabase`, `PostgreSQL` (Relational DBMS)
-- **Design:** `Figma` (Modern Accessibility UI)
+## Architecture
+- **Frontend Framework:** Built with **React Native (Expo)** and **TypeScript** for cross-platform responsiveness.
+- **State Management:** Utilized modern State Management to sync complex multi-user workflows (Students, Teachers, and Parents portals).
+- **Backend & Database:** Integrated with a **PostgreSQL (Supabase)** relational database via asynchronous **RESTful APIs** with secure role-based access tokens.
 
 ---
 

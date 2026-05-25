@@ -34,3 +34,6 @@
 - **No Data Fragmentation:** Replaced scattered paper/spreadsheets with a centralized PostgreSQL database.
 - **No Communication Gap:** Transitioned from delayed monthly booklets to instant, day-to-day mobile updates.
 
+  ---
+*Note: The core application source code and internal configurations are kept Private to ensure system security, database integrity, and institutional privacy guidelines of the academic project.*
+
